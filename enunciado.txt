@@ -1,0 +1,21 @@
+Nombre del personaje
+atributos  
+    generar los seis atributos
+    3d6 en orden
+    4d6 dropeando el más bajo
+Clase de personaje
+    guerrero
+    pícaro
+    mago
+    clérigo
+Habilidades
+Raza
+    Humano
+    Elfo
+    Enano
+    Mediano
+Puntos de vida
+CA
+
+Automatizar tiradas
+Automatizar ataques
