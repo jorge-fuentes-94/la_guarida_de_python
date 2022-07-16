@@ -13,7 +13,7 @@ Raza
     Humano
     Elfo
     Enano
-    Mediano
+    Tiefling
 Puntos de vida
 CA
 
