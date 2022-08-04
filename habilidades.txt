@@ -1,1 +1,0 @@
-"Atletismo","Acrobacias","Juego de Manos","Sigilo","Arcano","Historia","Investigación","Naturaleza","Religión","Trato de animales","Medicina","Percepción","Perspicacia","Supervivencia","Engaño","Intimidación","Interpretación","Persuasión"
