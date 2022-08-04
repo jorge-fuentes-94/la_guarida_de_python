@@ -47,7 +47,7 @@ def generar_ficha(clasico_o_moderno_dados,raza_pj,tasha,clase_pj):
     else:
        generador_4d6(raza_pj,tasha)
     calcular_habilidad_pj(atributos_pj)
-    definir_talentos_pj(raza_pj,talentos_pj)
+    definir_talentos_pj(raza_pj,clase_pj,talentos_pj)
     for talento in talentos_pj:
         print (talento)
     
