@@ -30,6 +30,12 @@ def obtener_razas_seguras (mensaje_entrada):
         entrada_recibida = input(mensaje_entrada)
     return entrada_recibida
 
+def obtener_clases_seguras (mensaje_entrada):
+    entrada_recibida = input(mensaje_entrada)
+    while not isGuerrero(entrada_recibida) and not isMago(entrada_recibida) and not isPicaro(entrada_recibida) and not isTeafling(entrada_recibida):
+        entrada_recibida = input(mensaje_entrada)
+    return entrada_recibida
+
 def isTasha (variable):
     if variable in ["sí","s","si"]:
        return True
